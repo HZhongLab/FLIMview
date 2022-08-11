@@ -1,0 +1,25 @@
+2017-06-13
+    slice FLIM rig:
+        960 nm: t0 = 2.330 ns; PRFsigma = 0.148;    920 nm: t0 = 2.5195 ns; PRFsigma = 0.1455;
+
+2017-09-21 (lasers were serviced).
+    slice rig:
+        960 nm: t0 = 2.271 ns; SPC range = 1.8 - 11.5. 
+    in vivo FLIM rig:
+        960 nm: t0 = 1.655 (unchanged, data in H1207), PRFsigma = 0.147, avg of 3. SPC range = 1.2 - 11.5. 
+
+2017-11-06
+    slice rig: change of PMT. Add 4 connectors to cable.
+        960 nm: t0 = 2.268 ns; PRFsigma unchange = 0.148. SPC range = 1.8 - 11.5.
+
+2018-04-13
+    slice rig: imaging laser died. Change to uncaging laser for imaging.
+        950 nm: t0 = 2.269 ns; PRFsigma = 0.160 (fluorescein solution). SPC range = 1.8 - 11.5.
+
+2018-07-16
+    slice rig: new imaging laser.
+        960 nm: t0 = 2.2634 ns; PRFsigma = 0.1599 (fluorescein solution). SPC range = 1.8 - 11.5.
+        950 nm: t0 = 2.3147 ns; PRFsigma = 0.1589 (fluorescein solution). SPC range = 1.8 - 11.5.
+        950 nm: t0 = 2.3007 ns; PRFsigma = 0.1535 (fluorescein solution). SPC range = 1.8 - 11.5.
+    
+
